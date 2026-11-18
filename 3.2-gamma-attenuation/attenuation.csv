@@ -1,0 +1,25 @@
+# Activity 3.2: gamma attenuation - Cs-137, Scintillation Counter unit - SIMULATED EXAMPLE DATA
+material,thickness_mm,counts,time_s
+background,0,1164,300
+lead,0,11030,60
+lead,2,8730,60
+lead,4,7107,60
+lead,6,5593,60
+lead,8,4468,60
+lead,10,3561,60
+lead,12,2853,60
+lead,14,2278,60
+lead,16,1878,60
+lead,18,1550,60
+lead,20,1254,60
+aluminium,0,10938,60
+aluminium,5,10013,60
+aluminium,10,9031,60
+aluminium,15,8374,60
+aluminium,20,7499,60
+aluminium,25,6871,60
+aluminium,30,6359,60
+aluminium,35,5722,60
+aluminium,40,5119,60
+aluminium,45,4653,60
+aluminium,50,4308,60

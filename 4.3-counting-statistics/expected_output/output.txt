@@ -1,0 +1,17 @@
+=== background_10s.csv ===
+  number of intervals N = 200
+  mean  = 4.43 +/- 0.16 counts per interval
+  variance = 5.14   ->  variance/mean = 1.16 (Poisson predicts 1.00)
+  standard deviation = 2.27;  sqrt(mean) = 2.11
+  chi^2 = 6.0 for 7 degrees of freedom, p-value = 0.53
+  -> consistent with Poisson (p > 0.05)
+
+=== source_1s.csv ===
+  number of intervals N = 300
+  mean  = 47.61 +/- 0.40 counts per interval
+  variance = 49.06   ->  variance/mean = 1.03 (Poisson predicts 1.00)
+  standard deviation = 7.00;  sqrt(mean) = 6.90
+  chi^2 = 28.9 for 24 degrees of freedom, p-value = 0.22
+  -> consistent with Poisson (p > 0.05)
+
+Graph saved to statistics.png (next to this script)

@@ -1,0 +1,4 @@
+Rate = 20.0 +/- 0.6 cps
+At 20 cm we expect   5.00 cps
+At 40 cm we expect   1.25 cps
+At 80 cm we expect   0.31 cps

@@ -1,0 +1,4 @@
+Hello, radiation detectives!
+Count rate: 20.0 counts per second
+New total: 1500
+N = 1500 +/- 38.73 counts

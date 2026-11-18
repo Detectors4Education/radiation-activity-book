@@ -1,0 +1,7 @@
+Background = 21.8 cpm
+
+LEVEL 1  apparent half-life = 34.9 +/- 1.1 min (chi^2/ndf = 66/59)
+LEVEL 2  N(Pb-214, t=0) = 3159 +/- 165,  N(Bi-214, t=0) = 2486 +/- 269  (x efficiency)
+         ratio Bi/Pb at t=0 = 0.79   chi^2/ndf = 63/59
+
+Graph saved to radon.png (next to this script)

@@ -1,0 +1,11 @@
+Calibration ratio  a = 1.111 +/- 0.012   (a perfect counter gives 1)
+Offset             c = 0.029 +/- 0.010 uSv/h
+chi^2/ndf = 22.3/4
+Note: the reference dose rates also have uncertainties, so chi^2 may be large.
+
+Correction for your DIY counter:
+   true dose rate (uSv/h) = (DIY reading - 0.029) / 1.111
+   e.g. a DIY reading of 1.00 uSv/h  ->  0.87 uSv/h
+Your tube is 11 % more sensitive than the display assumes.
+
+Graph saved to calibration.png (next to this script)

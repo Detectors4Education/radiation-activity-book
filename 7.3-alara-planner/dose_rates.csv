@@ -1,0 +1,18 @@
+# Activity 7.3: dose-rate survey for ALARA planning, Personal Dosimeter - SIMULATED EXAMPLE DATA
+series,distance_cm,lead_mm,dose_rate_uSvh
+distance,10,0,5.24
+distance,15,0,2.43
+distance,20,0,1.45
+distance,30,0,0.69
+distance,40,0,0.50
+distance,60,0,0.28
+distance,80,0,0.18
+distance,100,0,0.17
+shield_lead,20,0,1.45
+shield_lead,20,2,1.16
+shield_lead,20,4,0.98
+shield_lead,20,6,0.69
+shield_lead,20,8,0.61
+shield_lead,20,10,0.55
+shield_lead,20,15,0.36
+shield_lead,20,20,0.26

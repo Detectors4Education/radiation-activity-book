@@ -1,0 +1,7 @@
+ 0.38 cps  -> background level
+ 0.45 cps  -> background level
+ 2.10 cps  -> well above background: a source is nearby!
+ 0.41 cps  -> background level
+ 0.52 cps  -> background level
+ 3.75 cps  -> well above background: a source is nearby!
+Mean reading: 1.27 cps

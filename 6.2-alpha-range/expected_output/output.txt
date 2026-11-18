@@ -1,0 +1,9 @@
+Mean range in lab air  R_m   = 3.200 +/- 0.002 cm
+Straggling width       sigma = 0.132 +/- 0.002 cm
+Extrapolated range     R_e   = R_m + sqrt(pi/2)*sigma = 3.36 cm
+Range in standard air (15 C, 101.325 kPa) = 3.12 cm
+Alpha energy from Geiger's rule           = 4.59 MeV
+Reference: Am-241 emits 5.486 MeV alphas (range ~4.1 cm in standard air)
+-> energy apparently lost before leaving the source ~ 0.9 MeV
+
+Graph saved to alpha_range.png (next to this script)

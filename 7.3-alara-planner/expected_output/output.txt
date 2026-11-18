@@ -1,0 +1,16 @@
+Distance model:  D_dot = 514/d^2 + 0.12 uSv/h   (d in cm)
+Shield model at 20 cm: D_dot = 1.32 exp(-0.120 x) + 0.12  (x in mm)
+  -> half-value layer of lead = 5.8 mm
+
+scenario                           rate (uSv/h)  dose (uSv)  % of 1 mSv
+A  quick, but close (10 cm)                5.26       0.877     0.0877 %
+B  slow and close                          5.26       2.632     0.2632 %
+C  use tongs: 30 cm                        0.69       0.138     0.0138 %
+D  tongs + 10 mm lead                      0.29       0.073     0.0073 %
+E  remote camera: 100 cm                   0.17       0.057     0.0057 %
+
+Lowest-dose plan: E  remote camera: 100 cm
+Remember: background alone gives about the same dose rate everywhere -
+compare each plan with doing nothing for the same time!
+
+Graph saved to alara.png (next to this script)

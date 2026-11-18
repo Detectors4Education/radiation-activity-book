@@ -1,0 +1,10 @@
+Background: 0.442 +/- 0.027 cps  (26.5 cpm)
+
+sample                           net rate (cps)      z  verdict    t needed for 3 sigma
+KCl_salt_substitute_500g        0.242 +/- 0.055    4.4  DETECTED        173 s
+granite_tile                    0.118 +/- 0.051    2.3  not seen        644 s
+uranium_glass_bead              2.585 +/- 0.104   24.8  DETECTED          5 s
+Cs137_check_source_10cm        14.158 +/- 0.222   63.7  DETECTED          1 s
+table_salt_NaCl_500g           -0.025 +/- 0.046   -0.5  not seen   -
+
+Graph saved to detection.png (next to this script)

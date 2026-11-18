@@ -1,0 +1,15 @@
+=== black probe ===
+  starting voltage        ~ 360 V
+  plateau used            : 400-580 V  (length 180 V)
+  plateau count rate      ~ 55.7 cps
+  plateau slope           = 4.4 +/- 0.9 % per 100 V
+  suggested operating V   ~ 460 V
+
+=== red probe ===
+  starting voltage        ~ 725 V
+  plateau used            : 775-975 V  (length 200 V)
+  plateau count rate      ~ 65.4 cps
+  plateau slope           = 4.6 +/- 0.8 % per 100 V
+  suggested operating V   ~ 842 V
+
+Graph saved to plateau.png (next to this script)

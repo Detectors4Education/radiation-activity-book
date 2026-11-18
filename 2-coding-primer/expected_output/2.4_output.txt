@@ -1,0 +1,6 @@
+First distance: 10 cm
+Last count: 258
+Number of measurements: 4
+Distances now: [10, 20, 30, 40, 50]
+Half-life of Co-60: 5.27 years
+Cs-137 is sealed: True

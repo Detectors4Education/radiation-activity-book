@@ -1,0 +1,22 @@
+# Activity 5.4: beta absorption, Sr-90/Y-90, Universal Radiometer + red GM probe - SIMULATED EXAMPLE DATA
+absorber,thickness_mm,counts,time_s
+background,0,217,600
+Al,0,29178,120
+Al,0.1,19387,120
+Al,0.2,15013,120
+Al,0.4,10603,120
+Al,0.6,7833,120
+Al,0.8,6025,120
+Al,1.0,4605,120
+Al,1.25,3219,120
+Al,1.5,2289,120
+Al,1.75,1620,120
+Al,2.0,1111,120
+Al,2.5,563,120
+Al,3.0,1688,600
+Al,3.5,1021,600
+Al,4.0,718,600
+Al,4.5,646,600
+Al,5.0,603,600
+Al,6.0,604,600
+Al,7.0,639,600

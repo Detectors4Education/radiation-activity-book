@@ -1,0 +1,6 @@
+Mean: 127.66666666666667
+Traceback (most recent call last):
+  File "2.11_error_demo.py", line 5, in <module>
+    print("Standard deviation:", standard_deviation)   # this name was never defined!
+                                 ^^^^^^^^^^^^^^^^^^
+NameError: name 'standard_deviation' is not defined

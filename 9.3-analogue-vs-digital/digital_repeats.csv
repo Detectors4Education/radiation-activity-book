@@ -1,0 +1,27 @@
+# Activity 9.3: GM Puzzle Set: repeated Digital Display counts, same source position - SIMULATED EXAMPLE DATA
+gate_s,counts
+10,176
+10,157
+10,190
+10,168
+10,210
+10,197
+10,162
+10,196
+10,185
+10,183
+10,190
+10,170
+10,188
+10,220
+10,184
+10,172
+10,180
+10,189
+10,183
+10,185
+100,1846
+100,1880
+100,1925
+100,1898
+100,1864

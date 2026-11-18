@@ -1,0 +1,14 @@
+=== pos1 (10 cm) ===
+  gradient of D(t)      = 5.10 +/- 0.01 uSv/h
+  mean displayed rate   = 5.06 +/- 0.11 uSv/h
+  difference            = 0.4 combined standard uncertainties
+
+=== pos2 (20 cm) ===
+  gradient of D(t)      = 1.44 +/- 0.01 uSv/h
+  mean displayed rate   = 1.42 +/- 0.04 uSv/h
+  difference            = 0.4 combined standard uncertainties
+
+Dose-rate ratio pos1/pos2 = 3.54; inverse-square law predicts 4.00
+(Real sources and detectors are not points, so expect some difference.)
+
+Graph saved to dose.png (next to this script)

@@ -1,0 +1,9 @@
+# Activity 8.5: cross-calibration of the DIY GM counter against the GM Counter unit - SIMULATED EXAMPLE DATA
+# diy_dose_uSv = increase of the DIY counter's cumulative-dose line during time_s
+position,reference_uSvh,diy_dose_uSv,time_s
+background_lab,0.13,0.038,900
+granite_slab,0.28,0.066,600
+source_40cm,0.86,0.088,300
+source_25cm,1.97,0.200,300
+source_15cm,5.45,0.517,300
+source_10cm,12.40,1.120,300

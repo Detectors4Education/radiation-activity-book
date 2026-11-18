@@ -1,0 +1,15 @@
+   thickness_mm  counts  time_s
+0             0    6020      60
+1             1    4410      60
+2             2    3270      60
+3             3    2400      60
+4             4    1790      60
+5             5    1300      60
+6             6     980      60
+
+Rows with 3 mm or more:
+   thickness_mm   rate  d_rate
+3             3  40.00    0.82
+4             4  29.83    0.71
+5             5  21.67    0.60
+6             6  16.33    0.52

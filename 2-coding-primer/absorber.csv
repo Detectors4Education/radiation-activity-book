@@ -1,0 +1,9 @@
+# Example data for the programming introduction: aluminium absorbers, beta source
+thickness_mm,counts,time_s
+0,6020,60
+1,4410,60
+2,3270,60
+3,2400,60
+4,1790,60
+5,1300,60
+6,980,60

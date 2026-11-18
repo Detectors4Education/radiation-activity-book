@@ -1,0 +1,8 @@
+# Activity 9.2: GM Puzzle Set: Digital Display counts, background and samples - SIMULATED EXAMPLE DATA
+sample,counts,time_s
+background,265,600
+KCl_salt_substitute_500g,205,300
+granite_tile,168,300
+uranium_glass_bead,908,300
+Cs137_check_source_10cm,4380,300
+table_salt_NaCl_500g,125,300

@@ -1,0 +1,7 @@
+Background: 0.36 cps;  bremsstrahlung tail: 0.68 cps
+Fit on (0.45, 0.95) g/cm^2:  ln(R) = 4.84 -4.87 x
+Maximum range R_max = 1.076 +/- 0.008 g/cm^2 = 3.98 mm of aluminium
+E_max (Katz-Penfold) = 2.24 +/- 0.02 MeV
+Reference: Y-90 E_max = 2.28 MeV, Sr-90 E_max = 0.546 MeV
+
+Graph saved to beta.png (next to this script)

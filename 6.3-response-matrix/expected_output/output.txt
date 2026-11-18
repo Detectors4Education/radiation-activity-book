@@ -1,0 +1,20 @@
+source     det.     none (cps)  paper/none   Al/none
+Am-241     GM       2.23+/-0.21       1.03      0.84
+Am-241     ZnS    120.03+/-1.41      -0.00     -0.00
+Co-60      GM      13.68+/-0.49       1.04      0.81
+Co-60      ZnS      0.08+/-0.05          -         -
+Cs-137     GM      39.98+/-0.82       0.94      0.22
+Cs-137     ZnS      0.03+/-0.04          -         -
+Sr-90      GM      92.12+/-1.24       0.98      0.01
+Sr-90      ZnS      0.28+/-0.08       1.18      0.05
+unknown_X  GM       0.03+/-0.09          -         -
+unknown_X  ZnS     85.45+/-1.19       0.00     -0.00
+
+Identification:
+  Am-241      -> alpha, gamma
+  Sr-90       -> beta
+  Cs-137      -> beta, gamma
+  Co-60       -> gamma
+  unknown_X   -> alpha
+
+Graph saved to response.png (next to this script)

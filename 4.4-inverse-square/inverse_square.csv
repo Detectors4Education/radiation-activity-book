@@ -1,0 +1,15 @@
+# Activity 4.4: inverse-square law, Cs-137, GM Counter unit - SIMULATED EXAMPLE DATA
+# distance measured from source to the front face of the counter
+distance_cm,counts,time_s
+2,11133,60
+3,6066,60
+4,3940,60
+5,2605,60
+6,1940,60
+8,1221,60
+10,789,60
+12,580,60
+15,355,60
+20,238,60
+25,159,60
+30,96,60

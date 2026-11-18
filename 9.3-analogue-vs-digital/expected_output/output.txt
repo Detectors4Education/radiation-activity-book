@@ -1,0 +1,18 @@
+Before the source: r0  = 0.19 +/- 0.33 cps
+Final reading:     r1  = 18.5 +/- 0.1 cps
+Time constant:     tau = 7.1 +/- 0.4 s
+Time to reach 95 % of the final value: 3*tau = 21 s
+
+Analogue Display after settling: mean 18.4 cps, scatter 1.40 cps
+   theory sqrt(r/(2 tau)) = 1.14 cps  -> relative 6.2 %
+   (readings 1 s apart are NOT independent, so the measured
+    scatter is only a rough check of the formula)
+
+Digital Display, repeated measurements:
+   gate   10 s: mean  18.42 cps, scatter  1.50 cps, Poisson predicts  1.36 cps  (7.4 %)
+   gate  100 s: mean  18.83 cps, scatter  0.31 cps, Poisson predicts  0.43 cps  (2.3 %)
+
+An analogue display with time constant tau is about as precise as a
+digital count lasting 2*tau = 14 s, but it never 'finishes' a measurement.
+
+Graph saved to analogue.png (next to this script)

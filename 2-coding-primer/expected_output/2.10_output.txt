@@ -1,0 +1,4 @@
+R0 = 100.0 +/- 1.0 cps
+mu = 0.3040 +/- 0.0039 per mm
+chi^2 / ndf = 0.5 / 5
+Graph saved as 2.10_fit.png

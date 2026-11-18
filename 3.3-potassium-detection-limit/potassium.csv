@@ -1,0 +1,12 @@
+# Activity 3.3: natural K-40 - Scintillation Counter unit, fixed beaker geometry - SIMULATED EXAMPLE DATA
+sample,mass_g,counts,time_s
+empty_container,0,3672,600
+KCl,50,4469,600
+KCl,100,5126,600
+KCl,150,5831,600
+KCl,200,6552,600
+KCl,250,7235,600
+KCl,300,7926,600
+salt_mix_unknown,250,4510,600
+table_salt_NaCl,250,3672,600
+dried_banana,100,3677,600

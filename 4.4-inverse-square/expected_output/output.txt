@@ -1,0 +1,12 @@
+Linear method  (1/sqrt(R-B) versus d)
+  k  = 1492 cps cm^2,   d0 = 0.79 cm
+
+Non-linear fit  R = k/(d+d0)^2 + B
+  k (cps cm^2)  =  1507.179 +/- 33.684
+  d0 (cm)       =     0.804 +/- 0.039
+  B (cps)       =     0.213 +/- 0.129
+  chi^2/ndf = 10.4/9
+
+Free exponent fit: n = 2.017 +/- 0.047  (expected 2)
+
+Graph saved to inverse_square.png (next to this script)

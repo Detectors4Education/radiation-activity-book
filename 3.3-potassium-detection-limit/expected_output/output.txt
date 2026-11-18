@@ -1,0 +1,17 @@
+Theory: specific activity of KCl = 16.6 Bq/g
+
+Background: 6.120 +/- 0.101 cps  (3672 counts in 600 s)
+Currie decision threshold L_C = 141 counts = 0.235 cps net
+Currie detection limit    L_D = 284 counts = 0.474 cps net
+
+Calibration: net rate = (23.17 +/- 0.79) x 10^-3 cps/g * m + (0.142 +/- 0.146) cps
+Overall detection efficiency = 0.139 % of K-40 decays
+
+Smallest detectable mass of KCl (this geometry) ~ 14 g
+
+sample                  net rate (cps)  detected?    KCl-equiv. (g)  KCl fraction
+salt_mix_unknown        1.397 +/- 0.151      yes         54 +/- 7            22 %
+table_salt_NaCl         0.000 +/- 0.143       no       < 14               < 6 %
+dried_banana            0.008 +/- 0.143       no       < 14              < 14 %
+
+Graph saved to potassium.png (next to this script)
